@@ -4,6 +4,11 @@ If you can read only one chapter to get going with Git, this is it. This chapter
 
 ## Getting a Git Repository ##
 
+lkajsdflkjasfd this is a aslkdjfalksjdflkasjdfkljsadflkajsdflkjdflakjsdf
+sdf
+asdfasdf
+
+
 ###Some content####
 You can get a Git project using two main approaches. The first takes an existing project or directory and imports it into Git. The second clones an existing Git repository from another server.
 
