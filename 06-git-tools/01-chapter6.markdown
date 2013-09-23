@@ -9,7 +9,6 @@ Now you’ll explore a number of very powerful things that Git can do that you m
 Git allows you to specify specific commits or a range of commits in several ways. They aren’t necessarily obvious but are helpful to know.
 
 ### Single Revisions ###
-
 You can obviously refer to a commit by the SHA-1 hash that it’s given, but there are more human-friendly ways to refer to commits as well. This section outlines the various ways you can refer to a single commit.
 
 ### Short SHA ###
