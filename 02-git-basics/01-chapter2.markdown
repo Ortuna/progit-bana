@@ -6,6 +6,11 @@ If you can read only one chapter to get going with Git, this is it. This chapter
 
 You can get a Git project using two main approaches. The first takes an existing project or directory and imports it into Git. The second clones an existing Git repository from another server.
 
+## Test Change ##
+- list item 1
+- list item 2
+- list item 3
+
 ### Initializing a Repository in an Existing Directory ###
 
 If you’re starting to track an existing project in Git, you need to go to the project’s directory and type
