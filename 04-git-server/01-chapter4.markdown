@@ -4,9 +4,6 @@ At this point, you should be able to do most of the day-to-day tasks for which y
 
 ```ruby
     def test=(value)
-    
-    
-    
         @test = value
     end
 ```
