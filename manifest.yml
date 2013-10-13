@@ -1,5 +1,5 @@
 title: 'Some Title'
-content:
+pages:
     'Introduction': '01-introduction/01-chapter1.markdown'
     'Git Basics': '02-git-basics/01-chapter2.markdown'
     'Git Branching': '03-git-branching/01-chapter3.markdown'
