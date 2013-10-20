@@ -5,9 +5,6 @@ pages:
     'Other':
         'Some More': '01-introduction/01-chapter1.markdown'
     'Git Basics': '02-git-basics/01-chapter2.markdown'
-    'Other 2':
-        'Other 3':
-            'Other 4': '01-introduction/01-chapter1.markdown'
     'Git Branching': '03-git-branching/01-chapter3.markdown'
     'Git Server': '04-git-server/01-chapter4.markdown'
     'Git Tools': '06-git-tools/01-chapter6.markdown'
