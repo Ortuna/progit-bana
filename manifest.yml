@@ -1,6 +1,7 @@
 title: 'Some Title #2'
 cover_image: 'assets/cover.jpg'
 pages:
+    'Preface': '01-introduction/01-chapter1.markdown'
     'Introduction': '01-introduction/01-chapter1.markdown'
     'Other':
         'Some More': '01-introduction/01-chapter1.markdown'
