@@ -1,5 +1,5 @@
 {
-    "title": "Some Title #2",
+    "title": "Some Title",
     "cover_image": "assets/cover.jpg",
     "pages":[
         {"Preface": "01-introduction/01-chapter1.markdown"},
