@@ -1,6 +1,7 @@
 # Getting Started #
 
 Here is some ruby code that should be highlighted
+
 ```ruby
     def some_method
         another_method
