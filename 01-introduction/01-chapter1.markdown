@@ -2,6 +2,12 @@
 
 Here is some ruby code that should be highlighted
 
+```javascript
+    function coolio(){
+    
+    }
+```
+
 ```ruby
     def some_method
         another_method
