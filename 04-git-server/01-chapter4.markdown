@@ -6,6 +6,10 @@ At this point, you should be able to do most of the day-to-day tasks for which y
     def test=(value)
         @test = value
     end
+    
+    def self.execute
+        execute_build
+    end
 ```
 
 #Testing example
