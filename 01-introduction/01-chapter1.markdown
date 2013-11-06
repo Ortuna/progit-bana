@@ -1,7 +1,7 @@
 # Getting Started #
 
 Here is some ruby code that should be highlighted
-
+![alt text](http://lh3.ggpht.com/ORiWvS4baXVlIURE_fB-Sruramf3Lmn08lI7gn6ZbTq5TXnFhsjYAtxjNOQNxXQUpwiBGM_6h0AfCWSdIXzaGA-uBuq0B--nu53O1KNijQ)
 ```javascript
     function coolio(){
     
