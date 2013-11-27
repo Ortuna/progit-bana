@@ -12,7 +12,10 @@ At this point, you should be able to do most of the day-to-day tasks for which y
     end
 ```
 
-#Testing example
+
+`this` works just fine
+
+#this is an example of some more code
 
 
 ## Test new saving method
@@ -34,6 +37,8 @@ It’s important to note that with the exception of the HTTP protocols, all of t
 The most basic is the _Local protocol_, in which the remote repository is in another directory on disk. This is often used if everyone on your team has access to a shared filesystem such as an NFS mount, or in the less likely case that everyone logs in to the same computer. The latter wouldn’t be ideal, because all your code repository instances would reside on the same computer, making a catastrophic loss much more likely.
 
 If you have a shared mounted filesystem, then you can clone, push to, and pull from a local file-based repository. To clone a repository like this or to add one as a remote to an existing project, use the path to the repository as the URL. For example, to clone a local repository, you can run something like this:
+
+
 
 	$ git clone /opt/git/project.git
 
