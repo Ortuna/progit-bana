@@ -1,5 +1,7 @@
 #Examples of Arturo
 
+##Hello
+
 
 ##Mathjax
 \[\begin{aligned} \dot{x} & = \sigma(y-x) \\ \dot{y} & = \rho x - y - xz \\ \dot{z} & = -\beta z + xy \end{aligned} \]
@@ -26,6 +28,4 @@
 ```
 
 ##Image from the internet
-![Some image](http://i.imgur.com/IPRSzd6.jpg)
-
 ## fin!
