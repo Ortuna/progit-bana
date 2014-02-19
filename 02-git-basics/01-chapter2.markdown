@@ -10,6 +10,11 @@ You can get a Git project using two main approaches. The first takes an existing
 - list item 1
 - list item 2
 - list item 3
+- 
+## Test Change ##
+- list item 1
+- list item 2
+- list item 3
 
 ### Initializing a Repository in an Existing Directory ###
 
