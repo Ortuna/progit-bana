@@ -1,6 +1,6 @@
 #Examples of Arturo
 
-##Hello
+##This is an auto build test
 
 ##Javascript Code
 ```javascript
