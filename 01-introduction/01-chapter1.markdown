@@ -3,15 +3,6 @@
 
 Trigger Commit Test.
 
-##Javascript Code
-```javascript
-    var Git = {};
-    Git.user = function(user_name) {
-        ..
-        return user;
-    }
-```
-
 ##Ruby Code
 ```ruby
     module Something
@@ -23,6 +14,14 @@ Trigger Commit Test.
         end
     end
 ```
+##Javascript Code
+```javascript
+    var Git = {};
+    Git.user = function(user_name) {
+        ..
+        return user;
+    }
+```
 
-##Image from the internet
+
 ## fin!
