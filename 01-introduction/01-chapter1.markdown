@@ -1,12 +1,5 @@
 #Examples of Arturo
 
-```elixir
-  module Somemodule
-    def function(msg) 
-      IO.puts msg
-    end
-  end
-```
 
 Trigger Commit Test.
 
