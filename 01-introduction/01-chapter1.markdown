@@ -1,6 +1,5 @@
 #Examples of Arturo
 
-
 Trigger Commit Test.
 
 ##Ruby Code
