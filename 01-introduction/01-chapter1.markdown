@@ -1,8 +1,12 @@
 #Examples of Arturo
 
-# I'm in a feature branch
-
-## new stuff
+```elixir
+  module Somemodule
+    def function(msg) 
+      IO.puts msg
+    end
+  end
+```
 
 Trigger Commit Test.
 
