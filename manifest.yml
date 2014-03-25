@@ -1,5 +1,6 @@
 title: "Pro Git"
 css: "assets/style.css"
+bad: "option"
 pages:
   - "01-introduction/01-chapter1.markdown"
   - "02-git-basics/01-chapter2.markdown"
