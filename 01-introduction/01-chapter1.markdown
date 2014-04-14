@@ -8,7 +8,7 @@
   end
 ```
 
-Trigger Commit Stuff.
+Trigger I'm changing this word Stuff.
 
 ##Ruby Code
 ```ruby
